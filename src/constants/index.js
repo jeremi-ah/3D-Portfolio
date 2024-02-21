@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "  Spring boot Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Angular Developer",
     icon: creator,
   },
 ];
@@ -116,39 +116,37 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Java Developer",
+    company_name: "Ronyn Wallets Inc",
+    icon: shopify,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2021 - December 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining Fullstack web applications using Java and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "ICT Intern",
+    company_name: "ICT Authority",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Dec 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Supporting network infrastructure maintenance and troubleshooting tasks, including routers, switches, and firewalls.",
+      "Assisting in the configuration and deployment of enterprise software solutions for improving organizational efficiency.",
+      "Contributing to cyber security initiatives by conducting vulnerability assessments and assisting in the implementation of security measures.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Software Developer Intern",
+    company_name: "HealthIT",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Java programming language and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -156,12 +154,12 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "Upwork-Freelance",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining software applications using java, JavaFX, Spring boot and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -182,16 +180,16 @@ const testimonials = [
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Jeremiah does.",
     name: "Veda Sadhak",
-    designation: "COO",
-    company: "DEF Corp",
+    designation: "CEO",
+    company: "Ronyn Wallets Inc",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Jeremiah optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Joseph Githinji",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "After Jeremiah optimized our website, our traffic increased by 50%. We can't thank him enough!",
+    name: "Manasi Garg",
+    designation: "Client",
+    company: "Upwork",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
